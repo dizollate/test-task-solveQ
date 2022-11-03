@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.time {
+  transition: all 0.3s ease;
+  min-height: 22px;
+  margin-top: 10px;
+}
